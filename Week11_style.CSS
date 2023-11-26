@@ -1,0 +1,62 @@
+
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    width: 60%;
+    padding: 2%;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+
+section{
+    padding: 2%;
+    background-color: lavender;
+    border: 2px solid black;
+    margin: 2%;
+    
+}
+
+#game>div{
+    margin: 2% 0px;
+}
+
+h1{
+    border: 2px solid black;
+    padding: 2%;
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+#remains, #left{
+    display: inline;
+}
+
+p{
+    margin-bottom: 0;
+    margin: 2%;
+
+}
+
+button{
+    padding: 0.5%;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color:lightpink
+}
+
+#result{
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    background-color:lightpink;
+    margin: 0.5%;
+    padding:0.5%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
